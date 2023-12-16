@@ -1,0 +1,394 @@
+#EXTM3U
+#EXTINF:0,TV DE MÚSICA RETRO
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0,TV DE MÚSICA RETRO
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://bit.ly/2m3sY3Y
+#EXTINF:0,TV DE MÚSICA RETRO
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
+#EXTINF:0,TV DE MÚSICA RETRO
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?GrupoTopIptv
+#EXTINF:0, Música retro TV
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:30,TV DE MÚSICA RETRO
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0,TV DE MÚSICA RETRO
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://bit.ly/2m3sY3Y
+#EXTINF:0,TV DE MÚSICA RETRO
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
+#EXTINF:0,TV DE MÚSICA RETRO
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?GrupoTopIptv
+#EXTINF:0,TV DE MÚSICA RETRO HD
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:0,HD2 MÚSICA RETRO TV
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:0,PH TV BALADS Y PELICULAS
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
+#EXTINF:0,ONDA TV RD.
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
+#EXTINF:0,MUSICA SALSA
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://radio.domiplay.net:2002/stream/1/
+#EXTINF:0,MUSICA MERENGUE 1
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://ss6.domint.net:2004/sam_str/sabor-video/chunklist_w533683600.m3u8
+#EXTINF:0,MUSICA SALSA
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://radio.domiplay.net:2002/stream/1/
+#EXTINF:0,VEVO MÚSICA 80S
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdgo.live:8080/play/4Sqby9AKUPY1hMX57w6QNFEKoxxGkFw2phVNe9o-L765A-rWQ28VGeuyO03E5jFz/ts
+#EXTINF:0,MTV CLÁSICO
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdgo.live:8080/play/4Sqby9AKUPY1hMX57w6QNJrRtuj4TdUAaL8nu9elwg_ppdQT-bbQR3QPAQF8aw4q/ts
+#EXTINF:0,MTV 80S
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdgo.live:8080/play/4Sqby9AKUPY1hMX57w6QNDTlkhTtt4B8c1YCrG2T1oo/ts
+#EXTINF:0,MTV 80S
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdgo.live:8080/play/4Sqby9AKUPY1hMX57w6QNCAKdhqoRv_Kk8wTUAsppwU/ts
+#EXTINF:0,MTV 80S
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdgo.live:8080/play/4Sqby9AKUPY1hMX57w6QNDv92QenYLnPiBEjdZYVP6Zbrf8Dpzwnhj4WGxUjsFy5/ts
+#EXTINF:0,VH1
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdgo.live:8080/play/4Sqby9AKUPY1hMX57w6QNL9JfJT06nK6uwbmcV_n1EE/ts
+#EXTINF:0,CANAL RETRO
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:0,VEVO 80S
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
+#EXTINF:0,VEVO 80S
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
+#EXTINF:0,VH1 CLÁSICO VERDADERO
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel& ;content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content%20_type=transmisi%C3%B3n%20en%20vivo&coppa=%20false&deviceDNT%20=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel& deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0,VH1 CLÁSICO VERDADERO2
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel& ;content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content%20_type=transmisi%C3%B3n%20en%20vivo&coppa=%20false&deviceDNT%20=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel& deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0,MUZIK AMVA GEO
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:0,MUZZIK AMVA GEO2
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:0,ITALIANISIMO
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
+#EXTINF:0,ITALIANISIMO2
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
+#EXTINF:0,MEJOR CABLE DE MÚSICA-PERÚ
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
+#EXTINF:0,MEJOR CABLE DE MÚSICA-PERU2
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
+#EXTINF:0,SOLO BAILALO TV
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
+#EXTINF:0,MUCHA MÚSICA TV ARGENTINA
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdgo.live:8080/play/4Sqby9AKUPY1hMX57w6QNCbEY2r7b073JUQogPCrPaw/ts
+#EXTINF:0,QUELLO CONCIERTOS
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdgo.live:8080/play/4Sqby9AKUPY1hMX57w6QNJu7cEiscwy9fo0-aHFLX5JoZh6RmtbM9SarHxPOk_6p/ts
+#EXTINF:0,CONCET CJANNEL
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdgo.live:8080/play/4Sqby9AKUPY1hMX57w6QNDN0ERAjFWGfEDp3OuqRF9w/ts
+#EXTINF:0,MÚSICA CLÁSICA DE TV
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:0,MUNDO DE LA MUSICA
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://videostreaming.cloudservlatam.com/8078/8078/playlist.m3u8
+#EXTINF:0,RETRO PLUS TV 2-2
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
+#EXTINF:0,RETRO PLUS TV 1-2
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
+#EXTINF:0,TV 13-FESTIVAL VIÑA
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:0,VH1-VIDEOS CLÁSICOS
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNDJ1QD24npunebi3kX5sVyfCe6SapupPhG9fmpgMN1KY/ts
+#EXTINF:0,MTV 80S-1
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNCpdIyI2_t4jYLeTc0svqU0/ts
+#EXTINF:0,MTV 80S-(ESTÉREO)
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNDTlkhTtt4B8c1YCrG2T1oo/ts
+#EXTINF:0,VH1 INICIO EE.UU.
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNBMh30UDNuv4af8ax7ExpU7Xwo0ErUhy0FhALUCcPodZ/ts
+#EXTINF:0,VH1-2000 ÉXITOS
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNA_4z6wMF9uy3Vh2b9xshQM/ts
+#EXTINF:0,VH1-2000 HITOS 1
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNL9JfJT06nK6uwbmcV_n1EE/ts
+#EXTINF:0,MTV 80S-3
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNDv92QenYLnPiBEjdZYVP6Zbrf8Dpzwnhj4WGxUjsFy5/ts
+#EXTINF:0,VEVO 90S-1
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNFEKoxxGkFw2phVNe9o-L778NkHJBj9ehnbRuHkHkq7a/ts
+#EXTINF:0,VEVO 80S-1
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNFEKoxxGkFw2phVNe9o-L765A-rWQ28VGeuyO03E5jFz/ts
+#EXTINF:0,VEVO 70S-1
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNAE5pjlLEBXPtLBo5l_fopC23jHHwRNDhYTiTZmqT5ak/ts
+#EXTINF:0,VEVO RETRO ROCK-1
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNECNdWh4PqI0QyxjEZAPqRPnHJGH9bJmJj1LARhF4wZz/ts
+#EXTINF:0,VEVO LATINO-1
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNJU3k6DXrzg1GiZWLPIIcs0xDfcMSNC6wBcLulVvdElP/ts
+#EXTINF:0,VEVO REGUEATON Y TRAP-1
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNAE5pjlLEBXPtLBo5l_fopDezl4dhAH9HHOp03eK9YPn/ts
+#EXTINF:0,CONCIERTOS DE STINGRAY-1
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNHUZAP7eAiB4hyX6ucMgenixHed0wmrnL1UI_dTPLSlU/ts
+#EXTINF:0,STINGRAY PAISAJES-1
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNHUZAP7eAiB4hyX6ucMgenj0jeKGZkbex52eFh3CSa7f/ts
+#EXTINF:0,STINGRAY KARAOKE-1
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNHUZAP7eAiB4hyX6ucMgengDUi9YgEhbeSicIlM-tsio/ts
+#EXTINF:REBOBINADO 0,80S
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNAe9MBtBKceWJbQb3uvPa_Z7PcgCvHt4D1iI9D7Sm1lr/ts
+#EXTINF:0,MTV CLÁSICO-1
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNJrRtuj4TdUAaL8nu9elwg_ppdQT-bbQR3QPAQF8aw4q/ts
+#EXTINF:0,vídeos DE SALSA-1
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNLoSEPnAj9LnpWFPkHS-JeUX8apNOv8wRN9kDj6VPAx5/ts
+#EXTINF:0,TELEHIT-1
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNJzzSnlSxp_Lkwhq39P_E4A/ts
+#EXTINF:0,TELEHIT-2
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNMCL-5sLHY1gfWEx6Gs3UyA/ts
+#EXTINF:0,retro plus tv 2
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
+#EXTINF:0,retro más televisión 
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
+#EXTINF:0,retro ÉXITOS TV
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
+#EXTINF:0,RETRO PLUS TV 2-2
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
+#EXTINF:0,RETRO PLUS TV 1-1
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
+#EXTINF:0,VEVO RETRO ROCA
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNECNdWh4PqI0QyxjEZAPqRPnHJGH9bJmJj1LARhF4wZz/ts
+#EXTINF:0,MÚSICA RETRO TV HD
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:0,VEVO MÚSICA 80
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdgo.live:8080/play/4Sqby9AKUPY1hMX57w6QNFEKoxxGkFw2phVNe9o-L765A-rWQ28VGeuyO03E5jFz/ts
+#EXTINF:0,VEVO 80S
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
+#EXTINF:0,VEVO 80S-1
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
+#EXTINF:0,VEVO 80S-2
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
+#EXTINF:0,VEVO 90S
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNFEKoxxGkFw2phVNe9o-L778NkHJBj9ehnbRuHkHkq7a/ts
+#EXTINF:0,VEVO 80S-1
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNFEKoxxGkFw2phVNe9o-L765A-rWQ28VGeuyO03E5jFz/ts
+#EXTINF:0,VEVO 70S
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNAE5pjlLEBXPtLBo5l_fopC23jHHwRNDhYTiTZmqT5ak/ts
+#EXTINF:0,VEVO RETRO RCK-2
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNECNdWh4PqI0QyxjEZAPqRPnHJGH9bJmJj1LARhF4wZz/ts
+#EXTINF:0,VEVO LATINO
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNJU3k6DXrzg1GiZWLPIIcs0xDfcMSNC6wBcLulVvdElP/ts
+#EXTINF:0,VEVO REGUETON Y TRAP
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNAE5pjlLEBXPtLBo5l_fopDezl4dhAH9HHOp03eK9YPn/ts
+#EXTINF:0,AHORA 80S
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,AHORA ROCK 80S
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,AHORA 70S
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,AHORA RADIO CABINA
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://videostream.jpbgdigital.com/NOWTV.m3u8
+#EXTINF:0,MTV CLÁSICO
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdgo.live:8080/play/4Sqby9AKUPY1hMX57w6QNJrRtuj4TdUAaL8nu9elwg_ppdQT-bbQR3QPAQF8aw4q/ts
+#EXTINF:0,MTV CLÁSICO
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNJrRtuj4TdUAaL8nu9elwg_ppdQT-bbQR3QPAQF8aw4q/ts
+#EXTINF:0,MTV 80S ESTEREO
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNDTlkhTtt4B8c1YCrG2T1oo/ts
+#EXTINF:0,MTV 00
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://195.24.89.82/VH1_SD/index.m3u8
+#EXTINF:0,MTV 00-1
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNL9JfJT06nK6uwbmcV_n1EE/ts
+#EXTINF:0,VH1-1
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:0,MTV 00-2
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdgo.live:8080/play/4Sqby9AKUPY1hMX57w6QNL9JfJT06nK6uwbmcV_n1EE/ts
+#EXTINF:0,BALADAS CLÁSICAS EN ESPAÑOL TV
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
+#EXTINF:0,SON CORAZON TV
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://hvtraficonew.ddns.net/pastocnc3/cnc3/playlist.m3u8
+#EXTINF:0,SON LATINO TV
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8
+#EXTINF:0,UNA TV MORDISCOS
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
+#EXTINF:REBOBINADO 0,80S
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNAe9MBtBKceWJbQb3uvPa_Z7PcgCvHt4D1iI9D7Sm1lr/ts
+#EXTINF:0,QUELLO CONCIERTOS
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
+#EXTINF:0,STINGRAY JAZZ
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
+#EXTINF:0,KARAOKE DE STINGRAY
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNHUZAP7eAiB4hyX6ucMgengDUi9YgEhbeSicIlM-tsio/ts
+#EXTINF:0,STINGRAY PAISAJES
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNHUZAP7eAiB4hyX6ucMgenj0jeKGZkbex52eFh3CSa7f/ts
+#EXTINF:0,CONCIERTO DE STINGRAY
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://xdplayer.tv:8080/play/4Sqby9AKUPY1hMX57w6QNHUZAP7eAiB4hyX6ucMgenixHed0wmrnL1UI_dTPLSlU/ts
+#EXTINF:0,STINGRAY 80S AUDIO
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+#EXTINF:0,ESTÉREO 88
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:0,MUNN2TV
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
+#EXTINF:0,CADENA ELITE
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:0,MEMORIAS TV
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://mediacp.us:8081/8002/index.m3u8
+#EXTINF:0,TV GLOBAL
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://stmv.video.gmpro.top/global/global/playlist.m3u8
+#EXTINF:0,CONECTA TV
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8
+#EXTINF:0,MUNDO LATINO
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:0,LA EXITOSA TV PMA
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://stmvideo2.livecastv.com/lax953/lax953/playlist.m3u8
+#EXTINF:0,GALACTICA TV
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://pacific.direcnode.com:3715/hybrid/play.m3u8
+#EXTINF:0,KARIBEÑA TV
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+#EXTINF:0,PLANETA TV
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://scl.edge.grupoz.cl/music/live/music.m3u8
+#EXTINF:0,MAESTROTV
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+#EXTINF:0,VM LATINO TV
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:0,TELE MÚSICA
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://canal.mediaserver.com.co/live/telemusica.m3u8
+#EXTINF:0,TV TROPICAL
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://cloud3.streaminglivehd.com:1936/8068/8068/playlist.m3u8
+#EXTINF:0,TIANKO ORIENTE TV
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://streamer103.neterra.tv/tiankov-orient/live.m3u8
+#EXTINF:0,KRAL POP TV
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:0,OGOUN TV
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://nogoumtv.nrpstream.com/hls/stream.m3u8
+#EXTINF:0,CANAL VALLENATO
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:0,SENTIMIENTO VALLENATO
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
+#EXTINF:0,RADIO SAN BORJA
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:0,ACADEMIA ATOMICA TV
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF:0, RADIO TV DE BOLYWOOD
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:0,SÚPER CLÁSICOS TV
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
+#EXTINF:0,GALERATV
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://hvtraficonew.ddns.net/pastocnc8/cnc8/playlist.m3u8
+#EXTINF:0,CERO UNO TV
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
+#EXTINF:0,TMA JAMAICA
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:0,FIESTA MAX FM
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://vcpar.myplaytv.com/fiestamax/live/playlist.m3u8
+#EXTINF:0,más FM
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
